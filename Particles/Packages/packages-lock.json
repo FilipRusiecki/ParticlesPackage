@@ -271,6 +271,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "ie.setu.particlepackage": {
+      "version": "file:ie.setu.particlepackage",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
