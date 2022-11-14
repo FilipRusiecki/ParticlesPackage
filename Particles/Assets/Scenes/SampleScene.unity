@@ -439,6 +439,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe462910a9113f448bbcb3839450269, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Force: 5
+  amountOfBullets: 1
   casingObject: {fileID: 6876879351062463831, guid: 1932d2d78f5fe0b45a187d6c1b09a719, type: 3}
   transformm: {fileID: 1682159820}
 --- !u!212 &1125427080
